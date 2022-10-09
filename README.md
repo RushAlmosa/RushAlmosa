@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rush Almosa</h1>
 <h3 align="center">A passionate backend developer from germany</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="www.linkedin.com/in/RushAlmosa">RushAlmosa<a></h3>
 <p align="left">
 </p>
 
