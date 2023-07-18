@@ -1,7 +1,6 @@
 
 <h1 align="center">👽 Greetings, Earthlings! I'm Rush Almosa, your friendly neighborhood developer!</h1>
-<h3 align="center">🚀 I'm a backend developer from the land of precision and punctuality, Germany, and I'm passionate enough to code an entire spaceship if I have to! I might not drink beer or eat pork, but I sure can brew up some mean code and roast bugs all day!
-</h3>
+<h3 align="center">🚀 I'm a backend developer from the land of precision and punctuality, Germany, and I'm passionate enough to code an entire spaceship if I have to! When I'm not busy brewing up some mean code or roasting bugs, you might find me enjoying a good cup of tee or exploring the great outdoors!</h3>
 
 - 🛠️ Currently Building: [My Super Secret Project](https://github.com/RushAlmosa/Al-Mudir) (It's so secret, it's currently set to private! But hey, if you're as curious and excited as a cat, just drop me a message and I might just give you a sneak peek! 😉)
 - 🎓 Currently Learning: Cybersecurity (Because who doesn't want to write the most secure code, right? I'm on a mission to make the digital world a safer place, one line of code at a time!)
