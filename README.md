@@ -42,11 +42,6 @@ Try to solve this impossible riddle! Can you find the answer?
   It's a human. The riddle is a metaphor for the stages of life. A baby crawls on four legs (morning, or the start of life), then walks on two legs (noon, or the middle of life), and then uses a cane in old age (evening, or the end of life). But wait, you said an impossible game, right? Well, the impossible part is... you just lost The Game! 😄
 </details>
 
-### 🎧 What I'm Listening to Right Now
-<!--START_SECTION:spotify-->
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/username)
-<!--END_SECTION:spotify-->
-
 ### 🐱‍💻 My Coding Setup
 //![Setup]()
 //Cooming soon
